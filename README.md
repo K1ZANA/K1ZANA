@@ -20,3 +20,10 @@ README made by: Kizana
 <!---
 Basically my own custom profile readme, nohing too special lol
 --->
+
+```diff
+- Stuff Kizana likes
+```
+[![]("https://gamebanana.com/wips/embeddables/54483?variant=large")](https://gamebanana.com/wips/54483)
+``` ```
+[![]("https://gamebanana.com/mods/embeddables/44230?variant=large")](https://gamebanana.com/mods/44230)
