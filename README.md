@@ -1,29 +1,19 @@
-### Ayo! I´m Kizana~!! 👋
+<h3 align="center">Kizana - Profile ReadME</h3>
 
-## I´m a Developer!
-- I´m currently working on a good discord bot, since thats the main things i do.
-- I´m trying to learn multiple languages, but some just seem too hard~!
-- And i´m also looking for a few devs for a upcoming friday night funkin mod
+- 🔭 I’m currently working on [KessCoin](https://github.com/HSCorp99906/KessCoin2)
 
-### Connect with me!
+- 🌱 I’m currently learning **bash**
 
-**Main Discord Server:**
-> [Click here!](https://discord.gg/JyqHVsfKhs)
+- 💬 Ask me about **SH and ricing.**
 
-**Twitter Account:**
-> [Click here!](https://twitter.com/KizanaGFX)
+- 📫 How to reach me **lassesaalmann@gmail.com**
 
-```yml
-README made by: Kizana
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kizanasnexus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kizanasnexus" height="30" width="40" /></a>
+<a href="https://instagram.com/kizana.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kizana.jpg" height="30" width="40" /></a>
+<a href="https://discord.gg/pFvjrpkr8C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pFvjrpkr8C" height="30" width="40" /></a>
+</p>
 
-<!---
-Basically my own custom profile readme, nohing too special lol
---->
-
-```diff
-- Stuff Kizana likes
-```
-[![]("https://gamebanana.com/wips/embeddables/54483?variant=large")](https://gamebanana.com/wips/54483)
-``` ```
-[![]("https://gamebanana.com/mods/embeddables/44230?variant=large")](https://gamebanana.com/mods/44230)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
