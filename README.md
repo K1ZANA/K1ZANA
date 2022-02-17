@@ -1,19 +1,31 @@
-<h3 align="center">Kizana - Profile ReadME</h3>
 
-- 🔭 I’m currently working on [KessCoin](https://github.com/HSCorp99906/KessCoin2)
+# Hi, I'm Xeno! 👋
+Im the Owner of the NexusProject, an upcoming project about Linux Distros, software etc.
 
-- 🌱 I’m currently learning **bash**
 
-- 💬 Ask me about **SH and ricing.**
 
-- 📫 How to reach me **lassesaalmann@gmail.com**
+## 🔗 Links
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kizanasnexus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kizanasnexus" height="30" width="40" /></a>
-<a href="https://instagram.com/kizana.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kizana.jpg" height="30" width="40" /></a>
-<a href="https://discord.gg/pFvjrpkr8C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pFvjrpkr8C" height="30" width="40" /></a>
-</p>
+![Twitter](https://img.shields.io/twitter/url?color=5e81ae&label=My%20Twitter%20~%3E&logo=Twitter&logoColor=5e81ae&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fkononoarashi)
+![Sonic Verse](https://img.shields.io/twitter/url?color=5e81ae&label=SONICVERSE%20~%3E&logo=Discord&logoColor=5e81ae&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg%2FpFvjrpkr8C)
+![GitHub](https://img.shields.io/twitter/url?color=5e81ae&label=GITHUB%20~%3E&logo=Github&logoColor=5e81ae&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FK1ZANA)
+![Twitter URL](https://img.shields.io/twitter/url?color=5e81ae&label=CZZ_%20Coding%20~%3E&logo=Discord&logoColor=5e81ae&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg%2FcSUtXRMz4u)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on the NexusProject
+
+🧠 I'm currently learning Haxe
+
+👯‍♀️ I'm looking to collaborate on nothing
+
+🤔 I'm looking for help with nothing
+
+💬 Ask me about Ricing
+
+📫 How to reach me
+
+![Twitter](https://img.shields.io/twitter/url?color=5e81ae&label=My%20Twitter%20~%3E&logo=Twitter&logoColor=5e81ae&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fkononoarashi)
+
+😄 Pronouns are He/they
+
+⚡️ Fun fact: I´m stupid.
