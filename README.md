@@ -12,7 +12,7 @@ Im the Owner of the NexusProject, an upcoming project about Linux Distros, softw
 ![Twitter URL](https://img.shields.io/twitter/url?color=5e81ae&label=CZZ_%20Coding%20~%3E&logo=Discord&logoColor=5e81ae&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg%2FcSUtXRMz4u)
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on the NexusProject
+👩‍💻 I'm currently working on the NexusProject and the OMEGAKernel.
 
 🧠 I'm currently learning Haxe
 
@@ -26,6 +26,6 @@ Im the Owner of the NexusProject, an upcoming project about Linux Distros, softw
 
 ![Twitter](https://img.shields.io/twitter/url?color=5e81ae&label=My%20Twitter%20~%3E&logo=Twitter&logoColor=5e81ae&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fkononoarashi)
 
-😄 Pronouns are He/they
+😄 Pronouns are He/Her
 
 ⚡️ Fun fact: I´m stupid.
