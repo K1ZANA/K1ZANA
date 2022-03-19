@@ -29,3 +29,7 @@ Im the Owner of the NexusProject, an upcoming project about Linux Distros, softw
 😄 Pronouns are He/Her
 
 ⚡️ Fun fact: I´m stupid.
+
+
+## Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=K1ZANA&show_icons=true&theme=nord)
